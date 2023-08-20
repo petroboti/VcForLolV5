@@ -1,3 +1,7 @@
+Release link:
+https://github.com/petroboti/VcForLolV5/releases/tag/1.0.0
+
+Auto generated:
 ---
 description: "Completed Visual Studio project from the tutorial Get started with WebView2 in WPF apps."
 languages: 
